@@ -6,7 +6,7 @@ Vous trouverez mon implémentation pour :
 
 <ul>
     <li>Ex1 : le trombinoscope [https://rajalamgarmel.github.io/THYP_21-22/ex1/index.html]</li>
-    <li>Projet.md : la description de votre projet</li>
+    <li>Projet.md : la description de mon projet</li>
 </ul>
 
 ## Contact
