@@ -2,7 +2,7 @@
 
 Bienvenu dans mon projet pour le module : Langages et Développement Web
 
-Vous trouverez mon implémentation pour :
+Vous trouverez ci-dessous mon implémentation pour :
 
 <ul>
     <li>Ex1 : le trombinoscope [https://rajalamgarmel.github.io/THYP_21-22/ex1/index.html]</li>
