@@ -1,6 +1,6 @@
 ## Liens vers mes items dans omeka s
 
-
+    <http://localhost/omeka-s/admin/item/4>
     professeur :  [http://localhost/omeka-s/admin/item/4](http://localhost/omeka-s/admin/item/4])
     [professeur](http://localhost/omeka-s/admin/item/4/ "titre de lien optionnel").
     <li>Etudiant: [http://localhost/omeka-s/admin/item/5]</li>
