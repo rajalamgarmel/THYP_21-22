@@ -1,0 +1,66 @@
+{
+    "o:label": "Professeur",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "https:\/\/rajalamgarmel.github.io\/THYP_21-22\/onto\/onto.ttl",
+            "vocabulary_label": "Elearning Paris 8",
+            "local_name": "hasLastname",
+            "label": "le nom"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "https:\/\/rajalamgarmel.github.io\/THYP_21-22\/onto\/onto.ttl",
+            "vocabulary_label": "Elearning Paris 8",
+            "local_name": "hasFirstname",
+            "label": "le prenom"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "https:\/\/rajalamgarmel.github.io\/THYP_21-22\/onto\/onto.ttl",
+            "vocabulary_label": "Elearning Paris 8",
+            "local_name": "teacherOf",
+            "label": "professeur de"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "https:\/\/rajalamgarmel.github.io\/THYP_21-22\/onto\/onto.ttl",
+            "vocabulary_label": "Elearning Paris 8",
+            "local_name": "hasAge",
+            "label": "l'age"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "https:\/\/rajalamgarmel.github.io\/THYP_21-22\/onto\/onto.ttl",
+            "vocabulary_label": "Elearning Paris 8",
+            "local_name": "hasEmail",
+            "label": "l'adresse mail"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "https:\/\/rajalamgarmel.github.io\/THYP_21-22\/onto\/onto.ttl",
+        "vocabulary_label": "Elearning Paris 8",
+        "local_name": "Teacher",
+        "label": "professeur"
+    }
+}
