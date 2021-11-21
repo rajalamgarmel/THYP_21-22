@@ -1,12 +1,17 @@
-## LAMGARMEL Raja - Master 2 THYP 2021/2022
-
-Bienvenu dans mon projet pour le module : Langages et Développement Web
-
-Vous trouverez ci-dessous mon implémentation pour :
+## Liens vers mes items dans omeka s
 
 <ul>
-    <li>Ex1 : le trombinoscope [https://rajalamgarmel.github.io/THYP_21-22/ex1/index.html]</li>
-    <li>Projet.md : la description de mon projet</li>
+    <li>professeur :  [http://localhost/omeka-s/admin/item/4]</li>
+    <li>Etudiant: [http://localhost/omeka-s/admin/item/5]</li>
+    <li>Administrateur: [http://localhost/omeka-s/admin/item/6]</li>
+    
+    <li>Module: [http://localhost/omeka-s/admin/item/7]</li>
+    <li>Module: [http://localhost/omeka-s/admin/item/9]</li>
+    
+    <li>cours: [http://localhost/omeka-s/admin/item/10]</li>
+    <li>cours: [http://localhost/omeka-s/admin/item/8]</li>
+    
+    
 </ul>
 
 ## Contact
