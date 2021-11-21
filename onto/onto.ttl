@@ -1,0 +1,107 @@
+  @prefix dcterms: <http://purl.org/dc/terms/> .
+	@prefix owl: <http://www.w3.org/2002/07/owl#> .
+	@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+	@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+	@prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+	@prefix o: <http://omeka.org/s/vocabs/o#> .
+	@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+	@prefix teach: <http://linkedscience.org/teach/ns#> .
+	
+	
+	@prefix Elearning: <https://github.com/rajalamgarmel/Elearning/blob/master/vocab.ttl#> .
+	
+	<https://github.com/rajalamgarmel/Elearning/blob/master/vocab.ttl> a owl:Ontology ;
+	    dcterms:title "E-learning Paris 8" .
+	
+	
+	
+	Elearning:Course a rdfs:Class ;
+	    rdfs:label "cours" ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs teach:Course ;
+	    vs:term_status "experimental" .
+	
+	Elearning:Module  a rdfs:Class ;
+	    rdfs:label "Module " ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs teach:Module ;
+	    vs:term_status "experimental" .
+	    
+	Elearning:Student  a rdfs:Class ;
+	    rdfs:label "etudiant" ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs teach:Student ;
+	    vs:term_status "experimental" .
+
+       Elearning:Teacher  a rdfs:Class ;
+	    rdfs:label "professeur" ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs teach:Teacher ;
+	    vs:term_status "experimental" .
+	    
+	Elearning:admin  a rdfs:Class ;
+	    rdfs:label "administrator" ;
+	    rdfs:domain o:Resource ;
+	    vs:term_status "experimental" .
+	    
+	    
+	Elearning:courseDescription a rdf:Property ;
+	    rdfs:label "description de cours" ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs teach:courseDescription ;
+	    vs:term_status "experimental" .
+	
+	Elearning:courseTitle a rdf:Property ;
+	    rdfs:label "titre cours" ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs teach:courseTitle ;
+	    vs:term_status "experimental" .
+	
+	Elearning:moduleDescription a rdf:Property ;
+	    rdfs:label "description de module" ;
+	    rdfs:domain o:Resource ;
+	    vs:term_status "experimental" .
+	
+	Elearning:moduleTitle a rdf:Property ;
+	    rdfs:label "titre de module" ;
+	    rdfs:domain o:Resource ;
+	    vs:term_status "experimental" .
+	    
+	Elearning:teacherOf a rdf:Property ;
+	    rdfs:label "professeur de" ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs teach:teacherOf ;
+	    vs:term_status "experimental" .
+	
+	Elearning:hasFirstname a rdf:Property ;
+	    rdfs:label "le prenom" ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs foaf:firstname ;
+	    vs:term_status "experimental" .
+	
+	Elearning:hasLastname a rdf:Property ;
+	    rdfs:label "le nom" ;
+	    rdfs:domain o:Resource ;
+	    owl:sameAs foaf:lastname ;
+	    vs:term_status "experimental" .
+	
+	Elearning:hasAge a rdf:Property ;
+	    rdfs:label "l'age" ;
+	    rdfs:domain o:Ressource ;
+	    owl:sameAs foaf:age ;
+	    vs:term_status "experimental" .
+	    
+      Elearning:hasPhone a rdf:Property ;
+	    rdfs:label "telephone" ;
+	    rdfs:domain o:Ressource ;
+	    owl:sameAs foaf:phone ;
+	    vs:term_status "experimental" .
+	    
+      Elearning:hasEmail a rdf:Property ;
+	    rdfs:label "l'adresse mail" ;
+	    rdfs:domain o:Ressource ;
+	    vs:term_status "experimental" .
+	    
+      
+	    
+	
