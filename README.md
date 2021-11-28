@@ -1,3 +1,9 @@
+## Lien vers le trombinoscope ex1 :
+<https://rajalamgarmel.github.io/THYP_21-22/ex1/index.html>.
+
+## Lien vers le récapitulaitif omk:
+<https://rajalamgarmel.github.io/THYP_21-22/omk/index.html>.
+
 ## Liens vers mes items dans omeka s
 professeur : <http://localhost/omeka-s/admin/item/4>.<br/>
 Etudiant: <http://localhost/omeka-s/admin/item/5>.<br/>
