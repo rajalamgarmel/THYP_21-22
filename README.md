@@ -5,13 +5,36 @@
 <https://rajalamgarmel.github.io/THYP_21-22/omk/index.html>.
 
 ## Liens vers mes items dans omeka s
-professeur : <http://localhost/omeka-s/admin/item/4>.<br/>
-Etudiant: <http://localhost/omeka-s/admin/item/5>.<br/>
-Administrateur: <http://localhost/omeka-s/admin/item/6> <br/>
-Module1: <http://localhost/omeka-s/admin/item/7><br/>
-Module2: <http://localhost/omeka-s/admin/item/9><br/>    
-cours1: <http://localhost/omeka-s/admin/item/10><br/>
-cours2: <http://localhost/omeka-s/admin/item/8> <br/>
+
+### Le lien vers la liste des resource templates JSON
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates.json>.
+
+### Les liens vers les détails de chaque resource template JSON
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates9.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates10.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates11.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates12.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates13.json>.
+
+### Les liens vers le items de chaque resource template JSON
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates9.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates10.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates11.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates12.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates13.json>.
+
+
+### Les liens vers les détails de chaque item JSON
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_4.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_5.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_6.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_7.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_8.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_9.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_10.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_12.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_13.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/item_14.json>.
 
 
 ## Contact
