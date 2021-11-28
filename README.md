@@ -10,18 +10,18 @@
 <https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates.json>.
 
 ### Les liens vers les détails de chaque resource template JSON
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates9.json>.
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates10.json>.
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates11.json>.
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates12.json>.
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates13.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates_9.json>.<br>
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates_10.json>.<br>
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates_11.json>.<br>
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates_12.json>.<br>
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/resource_templates_13.json>.<br>
 
 ### Les liens vers le items de chaque resource template JSON
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates9.json>.
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates10.json>.
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates11.json>.
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates12.json>.
-<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates13.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates_9.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates_10.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates_11.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates_12.json>.
+<https://rajalamgarmel.github.io/THYP_21-22/omk/data/items_resource_templates_13.json>.
 
 
 ### Les liens vers les détails de chaque item JSON
