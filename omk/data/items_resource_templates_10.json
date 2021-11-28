@@ -1,0 +1,111 @@
+[ {
+  "@context": "http://localhost/omeka-s/api-context",
+  "@id": "http://localhost/omeka-s/api/items/8",
+  "@type": [
+    "o:Item",
+    "Elearning:Course"
+  ],
+  "o:id": 8,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://localhost/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://localhost/omeka-s/api/resource_classes/178",
+    "o:id": 178
+  },
+  "o:resource_template": null,
+  "o:thumbnail": null,
+  "o:title": "Indexation",
+  "thumbnail_display_urls": {
+    "large": null,
+    "medium": null,
+    "square": null
+  },
+  "o:created": {
+    "@value": "2021-11-14T21:44:51+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2021-11-21T21:09:57+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:media": [],
+  "o:item_set": [],
+  "o:site": [],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Indexation"
+    }
+  ],
+  "dcterms:description": [
+    {
+      "type": "literal",
+      "property_id": 4,
+      "property_label": "Description",
+      "is_public": true,
+      "@value": "Indexation"
+    }
+  ]
+},
+{
+"@context": "http://localhost/omeka-s/api-context",
+"@id": "http://localhost/omeka-s/api/items/10",
+"@type": [
+"o:Item",
+"Elearning:Course"
+],
+"o:id": 10,
+"o:is_public": true,
+"o:owner": {
+"@id": "http://localhost/omeka-s/api/users/1",
+"o:id": 1
+},
+"o:resource_class": {
+"@id": "http://localhost/omeka-s/api/resource_classes/178",
+"o:id": 178
+},
+"o:resource_template": null,
+"o:thumbnail": null,
+"o:title": "Web Sémantique",
+"thumbnail_display_urls": {
+"large": null,
+"medium": null,
+"square": null
+},
+"o:created": {
+"@value": "2021-11-14T21:47:57+00:00",
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+},
+"o:modified": {
+"@value": "2021-11-21T21:08:28+00:00",
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+},
+"o:media": [],
+"o:item_set": [],
+"o:site": [],
+"dcterms:title": [
+{
+"type": "literal",
+"property_id": 1,
+"property_label": "Title",
+"is_public": true,
+"@value": "Web Sémantique"
+}
+],
+"dcterms:description": [
+{
+"type": "literal",
+"property_id": 4,
+"property_label": "Description",
+"is_public": true,
+"@value": "Web Sémantique"
+}
+]
+}
+]

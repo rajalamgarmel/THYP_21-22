@@ -1,0 +1,112 @@
+[
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/7",
+    "@type": [
+      "o:Item",
+      "Elearning:Module"
+    ],
+    "o:id": 7,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/179",
+      "o:id": 179
+    },
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "Techniques Informatiques & Web",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-14T21:28:18+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T21:10:46+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Techniques Informatiques & Web"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Techniques Informatiques & Web"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/9",
+    "@type": [
+      "o:Item",
+      "Elearning:Module"
+    ],
+    "o:id": 9,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/179",
+      "o:id": 179
+    },
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "Langages et Développement Web",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-14T21:47:08+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T21:09:29+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Langages et Développement Web"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Langages et Développement Web"
+      }
+    ]
+  }
+]

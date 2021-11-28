@@ -1,0 +1,41 @@
+{
+  "@context": "http://localhost/omeka-s/api-context",
+  "@id": "http://localhost/omeka-s/api/resource_templates/10",
+  "@type": "o:ResourceTemplate",
+  "o:id": 10,
+  "o:label": "Cours",
+  "o:owner": {
+    "@id": "http://localhost/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://localhost/omeka-s/api/resource_classes/178",
+    "o:id": 178
+  },
+  "o:title_property": null,
+  "o:description_property": null,
+  "o:resource_template_property": [
+    {
+      "o:property": {
+        "@id": "http://localhost/omeka-s/api/properties/378",
+        "o:id": 378
+      },
+      "o:alternate_label": null,
+      "o:alternate_comment": null,
+      "o:data_type": [],
+      "o:is_required": false,
+      "o:is_private": false
+    },
+    {
+      "o:property": {
+        "@id": "http://localhost/omeka-s/api/properties/379",
+        "o:id": 379
+      },
+      "o:alternate_label": null,
+      "o:alternate_comment": null,
+      "o:data_type": [],
+      "o:is_required": false,
+      "o:is_private": false
+    }
+  ]
+}

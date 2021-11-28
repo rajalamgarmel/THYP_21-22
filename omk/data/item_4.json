@@ -1,0 +1,94 @@
+{
+  "@context": "http://localhost/omeka-s/api-context",
+  "@id": "http://localhost/omeka-s/api/items/4",
+  "@type": [
+    "o:Item",
+    "Elearning:admin"
+  ],
+  "o:id": 4,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://localhost/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://localhost/omeka-s/api/resource_classes/182",
+    "o:id": 182
+  },
+  "o:resource_template": {
+    "@id": "http://localhost/omeka-s/api/resource_templates/13",
+    "o:id": 13
+  },
+  "o:thumbnail": null,
+  "o:title": "John Chammi",
+  "thumbnail_display_urls": {
+    "large": null,
+    "medium": null,
+    "square": null
+  },
+  "o:created": {
+    "@value": "2021-11-14T21:10:03+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2021-11-21T21:22:24+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:media": [],
+  "o:item_set": [],
+  "o:site": [],
+  "Elearning:hasLastname": [
+    {
+      "type": "literal",
+      "property_id": 384,
+      "property_label": "le nom",
+      "is_public": true,
+      "@value": "john"
+    }
+  ],
+  "Elearning:hasFirstname": [
+    {
+      "type": "literal",
+      "property_id": 383,
+      "property_label": "le prenom",
+      "is_public": true,
+      "@value": "chammi"
+    }
+  ],
+  "Elearning:hasAge": [
+    {
+      "type": "literal",
+      "property_id": 385,
+      "property_label": "l'age",
+      "is_public": true,
+      "@value": "48"
+    }
+  ],
+  "Elearning:hasEmail": [
+    {
+      "type": "literal",
+      "property_id": 387,
+      "property_label": "l'adresse mail",
+      "is_public": true,
+      "@value": "jhon.chammi@gmail.com"
+    }
+  ],
+  "Elearning:hasPhone": [
+    {
+      "type": "literal",
+      "property_id": 386,
+      "property_label": "telephone",
+      "is_public": true,
+      "@value": "0677665534"
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "John Chammi"
+    }
+  ]
+}
